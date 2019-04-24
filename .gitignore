@@ -1,4 +1,4 @@
-*/.ipynb_checkpoints/
+.ipynb_checkpoints/
 nohup*
 __pycache__/
 model_tmp/
